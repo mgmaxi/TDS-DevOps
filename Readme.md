@@ -10,12 +10,15 @@ realidad este modelo tanto como las herramientas que facilitan su implementació
 Realizaremos un profundo análisis del ciclo de vida del software y todos los equipos que
 participan de ello, analizando cada una de sus etapas.
 ## OBJETIVOS DE LA MATERIA
-Se espera que al finalizar el cursado del seminario de actualización los estudiantes
-sean capaces de:
+
 ● Conocer y utilizar los distintos métodos de trabajo del desarrollo ágil.
+
 ● Conocer y comprender el ciclo de vida del software con toda sus etapas.
+
 ● Conocer las herramientas que utiliza un devop y su utilización.
+
 ● Conocer las automatizaciones de cada uno de los pasos en producción.
+
 ● Conocer cómo crear, empaquetar, distribuir y ejecutar aplicaciones en contenedores y
 su orquestación.
 
